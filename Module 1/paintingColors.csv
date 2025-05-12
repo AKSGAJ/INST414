@@ -1,0 +1,56 @@
+Era,Color,Number of Paintings,Color Family
+Renaissance,Vermilion,4,red
+Renaissance,Red Ochre,35,red
+Renaissance,Burnt Sienna,53,orange
+Renaissance,Gold Leaf,66,yellow
+Renaissance,Yellow Ochre,47,yellow
+Renaissance,Lead-Tin Yellow,51,yellow
+Renaissance,Ultramarine,28,blue
+Renaissance,Azurite,54,blue
+Renaissance,Indigo,48,indigo
+Renaissance,Malachite,85,Green 
+Renaissance,Verdigris,45,Green 
+Renaissance,Raw Umber,29,brown
+Renaissance,Burnt Umber,35,brown
+Renaissance,Bone Black,48,black
+Baroque,Carmine,74,red
+Baroque,Vermilion,58,red
+Baroque,Burnt Sienna,44,orange
+Baroque,Scarlet,64,orange
+Baroque,Gold Leaf,95,yellow
+Baroque,Ochre Yellow,43,yellow
+Baroque,Naples Yellow,34,yellow
+Baroque,Ultramarine,48,blue
+Baroque,Prussian Blue,48,blue
+Baroque,Verdigris,21,Green
+Baroque,Malachite Green,51,Green 
+Baroque,Raw Umber,11,brown
+Baroque,Burnt Umber,13,brown
+Baroque,Bone Black,14,black
+Baroque,Lamp Black,95,black
+Impressionism,Chrome Yellow,45,yellow
+Impressionism,Lemon Yellow,50,yellow
+Impressionism,Naples Yellow,10,yellow
+Impressionism,Cobalt Blue,10,blue
+Impressionism,Cerulean Blue,81,blue
+Impressionism,Ultramarine,37,blue
+Impressionism,Alizarin Crimson,70,red
+Impressionism,Vermilion,97,red
+Impressionism,Rose Madder,59,pink
+Impressionism,Emerald Green,87,Green 
+Impressionism,Viridian Green,44,Green 
+Impressionism,Sap Green,31,Green 
+Impressionism,Mauve,18,purple
+Impressionism,Lilac,39,purple
+Impressionism,Cobalt Violet,15,purple
+Modern,Cadmium Red,6,red
+Modern,Cadmium Yellow,87,yellow
+Modern,Cobalt Teal,88,teal
+Modern,Electric Blue,25,blue
+Modern,Jet Black,93,black
+Modern,Charcoal Gray,47,gray
+Modern,Neon Green,81,Green 
+Modern,Hot Pink,68,pink
+Modern,Fluorescent Orange,26,orange
+Modern,Dusty Rose,66,pink
+Modern,Slate Blue,7,blue
